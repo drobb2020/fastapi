@@ -1,12 +1,14 @@
 {
     "cSpell.words": [
-        "davidrobb",
-        "drobb",
-        "fastapi",
-        "jumpstart",
-        "pydantic",
-        "roadmap",
-        "sessionmaker",
-        "sqlalchemy"
+      "davidrobb",
+      "drobb",
+      "fastapi",
+      "jumpstart",
+      "livestream",
+      "pydantic",
+      "roadmap",
+      "sessionmaker",
+      "sqlalchemy",
+      "venv"
     ]
 }
