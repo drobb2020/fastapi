@@ -80,8 +80,6 @@
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 * [Python](https://python.org)
 * [FastAPI](https://fastapi.tiangolo.com/)
 
@@ -96,7 +94,9 @@ You should be familiar with Python coding and have a code editor of your choice.
 
 You need to have Python installed and know how to setup a virtual environment for this project.
 
-* python
+* python 3.6 minimum, 3.10 recommended
+
+* Steps to create a virtual environment
 
   ```sh
   python3 -m venv venv
@@ -106,25 +106,27 @@ You need to have Python installed and know how to setup a virtual environment fo
 
 ### Installation
 
-1. Install Python 3.6 or higher, 3.10 recommended/
+1. Install Python 3.6 or higher, 3.10 recommended.
 
-2. Clone the repo
+2. Clone the repo.
 
    ```sh
    git clone https://github.com/drobb2020/fastapi.git
    ```
 
-3. Create your virtual environment (see above)
+3. Change into the cloned directory.
 
-4. Activate the virtual environment.
+4. Create your virtual environment (see above).
 
-5. Install python packages
+5. Activate the virtual environment.
+
+6. Install python packages.
 
    ```sh
    pip install -r requirements.txt
    ```
 
-6. Happy coding!
+7. Happy coding!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
